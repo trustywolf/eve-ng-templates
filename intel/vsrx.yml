@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+config_script: config_vsrx.py
 description: Juniper vSRX
 name: vSRX
 cpulimit: 1

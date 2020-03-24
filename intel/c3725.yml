@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: dynamips
+config_script: embedded
 description: embedded Cisco IOS 3725 (Dynamips)
 name: "3725"
 cpulimit: 1

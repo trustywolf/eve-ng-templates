@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+config_script: config_csr1000v.py
 description: Cisco CSR 1000V (XE 16.x)
 name: CSR
 cpulimit: 1

@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+config_script: config_nxosv9k.py
 description: Cisco NX-OSv 9K
 name: NXOS
 cpulimit: 0

@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: docker
+config_script: config_docker.py
 description: Docker.io
 name: Docker
 cpulimit: 1

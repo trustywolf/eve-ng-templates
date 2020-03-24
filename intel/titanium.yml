@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+config_script: config_titanium.py
 description: Cisco NX-OSv (Titanium)
 name: NXOS
 cpulimit: 1

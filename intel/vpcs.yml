@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: vpcs
+config_script: embedded
 description: embedded Virtual PC (VPCS)
 name: VPC
 cpulimit: 1

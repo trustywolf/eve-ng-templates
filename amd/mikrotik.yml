@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+config_script: config_mikrotik.py
 description: MikroTik RouterOS
 name: Mikrotik
 cpulimit: 1

@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+config_script: config_xrv9k.py
 description: Cisco XRv 9000
 name: xrv9k
 cpulimit: 1

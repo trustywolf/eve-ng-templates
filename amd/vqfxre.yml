@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+config_script: config_vqfxre.py
 description: Juniper vQFX RE
 name: vQFX-RE
 cpulimit: 1

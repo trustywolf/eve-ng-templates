@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+config_script: config_paloalto.py
 description: Palo Alto
 name: PaloAlto
 cpulimit: 1
