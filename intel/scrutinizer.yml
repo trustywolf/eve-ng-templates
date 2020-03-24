@@ -26,6 +26,7 @@
 ---
 type: qemu
 name: Scrutinizer
+description: Pixia Scrutinizer
 cpulimit: 1
 icon: Server.png
 cpu: 4

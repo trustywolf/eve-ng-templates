@@ -26,6 +26,7 @@
 ---
 type: qemu
 name: 9800CL
+description: Cisco C9800-CL WLC
 cpulimit: 1
 icon: vWLC.png
 cpu: 4

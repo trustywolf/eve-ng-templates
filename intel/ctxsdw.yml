@@ -26,6 +26,7 @@
 ---
 type: qemu
 name: CTXSDW
+description: Citrix SD-WAN
 cpulimit: 1
 icon: vEdge.png
 cpu: 4

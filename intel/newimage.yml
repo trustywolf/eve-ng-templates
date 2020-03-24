@@ -26,6 +26,7 @@
 ---
 type: qemu
 name: generic
+description: New Image
 cpulimit: 1
 icon: Linux.png
 cpu: 2
