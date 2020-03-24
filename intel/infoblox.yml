@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Infoblox IPAM
 name: Infoblox
 cpulimit: 1
 icon: Infoblox.png

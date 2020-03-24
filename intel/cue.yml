@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco Unity Express
 name: CUE
 cpulimit: 1
 icon: Unity_express.png

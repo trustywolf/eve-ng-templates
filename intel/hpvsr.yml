@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: HP VSR1000
 name: VSR1000
 cpulimit: 1
 icon: Router.png

@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: VMWare ESXi
 name: esxi
 cpulimit: 1
 icon: ESXi.png

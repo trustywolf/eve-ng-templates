@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco Prime Infra
 name: PrimeInfra
 cpulimit: 0
 icon: Prime.png

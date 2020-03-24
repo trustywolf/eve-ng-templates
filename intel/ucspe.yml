@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco UCS-PE
 name: UCS-PE
 cpulimit: 1
 icon: Server.png

@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Trend Micro vTPS
 name: vTPS
 cpulimit: 1
 icon: Firewall.png

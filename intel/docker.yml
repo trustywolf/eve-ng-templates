@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: docker
+description: Docker.io
 name: Docker
 cpulimit: 1
 icon: Server.png

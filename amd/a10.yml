@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: A10 vThunder
 name: A10
 cpulimit: 1
 icon: Firewall.png

@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Nokia 7750 IOM
 name: 7750SR
 nokia_type: iom
 cpulimit: 1

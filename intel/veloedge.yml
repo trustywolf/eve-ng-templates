@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Velocloud Edge
 name: VCE
 cpulimit: 1
 icon: veloedge.png

@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Versa Director
 name: vDirector
 cpulimit: 1
 icon: vdirector.png

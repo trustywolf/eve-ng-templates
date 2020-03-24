@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco AMP Cloud
 name: AMP_Cloud
 cpulimit: 1
 icon: AMPServer.png

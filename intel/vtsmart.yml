@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Viptela vSmart
 name: vSmart
 cpulimit: 1
 icon: vSmart.png

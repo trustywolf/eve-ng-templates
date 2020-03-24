@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco Expressway
 name: CExprsW
 cpulimit: 1
 icon: Expressway-e.png

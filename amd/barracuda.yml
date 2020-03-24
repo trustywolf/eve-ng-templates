@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Barraccuda NGIPS
 name: Baraccuda-NGFW
 cpulimit: 1
 icon: Firewall.png

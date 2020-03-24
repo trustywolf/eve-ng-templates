@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Nokia 7750 CPM
 name: 7750SR_CPM
 nokia_type: cpm
 cpulimit: 1

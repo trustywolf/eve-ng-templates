@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Huawei AR1000v
 name: AR1000v
 cpulimit: 1
 icon: Router.png

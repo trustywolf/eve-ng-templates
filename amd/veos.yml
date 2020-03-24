@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Arista vEOS
 name: vEOS
 cpulimit: 1
 icon: AristaSW.png

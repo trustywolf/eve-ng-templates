@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: pfSense Firewall
 name: pfSense
 cpulimit: 1
 icon: Firewall.png

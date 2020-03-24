@@ -1,5 +1,6 @@
 ---
 type: qemu
+description: Sophos UTM
 name: SophosUTM
 cpulimit: 1
 icon: Sophos_fw.png

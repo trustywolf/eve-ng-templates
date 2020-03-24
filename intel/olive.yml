@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Juniper Olive
 name: Olive
 cpulimit: 1
 icon: JuniperMX.png

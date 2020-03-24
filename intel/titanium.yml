@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco NX-OSv (Titanium)
 name: NXOS
 cpulimit: 1
 icon: Nexus7K.png

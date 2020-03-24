@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco Web Security Appliance (WSA)
 name: WSA
 cpulimit: 1
 icon: WSA.png

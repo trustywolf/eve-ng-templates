@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Juniper vQFX RE
 name: vQFX-RE
 cpulimit: 1
 icon: JunipervQFXre.png

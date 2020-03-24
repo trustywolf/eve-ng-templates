@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco Email Security Appliance (ESA)
 name: ESA
 cpulimit: 1
 icon: ESA.png

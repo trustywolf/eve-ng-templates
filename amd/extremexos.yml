@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: ExtremeXOS
 name: ExtremeOs
 cpulimit: 1
 icon: Switch L3.png

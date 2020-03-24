@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco Application Policy Infrastructure
 name: APICEM
 cpulimit: 1
 icon: Apic.png

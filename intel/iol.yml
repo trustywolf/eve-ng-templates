@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: iol
+description: embedded Cisco IOL
 name: R
 cpulimit: 1
 icon: Router.png

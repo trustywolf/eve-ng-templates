@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: CheckPoint Security Gateway VE
 name: CP
 cpulimit: 1
 icon: Checkpoint.png

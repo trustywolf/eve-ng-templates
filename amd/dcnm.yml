@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco Data Center Network Manager
 name: DCNM
 cpulimit: 1
 icon: dcnm.png

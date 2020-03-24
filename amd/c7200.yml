@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: dynamips
+description: embedded Cisco IOS 7206VXR (Dynamips)
 name: 7206VXR
 cpulimit: 1
 icon: Router.png

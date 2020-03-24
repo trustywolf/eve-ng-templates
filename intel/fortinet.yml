@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Fortinet FortiGate
 name: Fortinet
 cpulimit: 1
 icon: Firewall.png

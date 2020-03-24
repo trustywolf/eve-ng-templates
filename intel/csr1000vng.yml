@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Cisco CSR 1000V (XE 16.x)
 name: CSR
 cpulimit: 1
 icon: CSRv1000.png

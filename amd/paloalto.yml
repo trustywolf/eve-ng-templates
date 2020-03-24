@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Palo Alto
 name: PaloAlto
 cpulimit: 1
 icon: PaloAlto.png

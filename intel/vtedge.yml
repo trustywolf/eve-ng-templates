@@ -25,6 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
+description: Viptela vEdge
 name: vEdge
 cpulimit: 1
 icon: vEdge.png
