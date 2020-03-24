@@ -35,11 +35,11 @@ ram: 2048
 ethernet: 5
 eth_name:
 - eth0
-eth_format: G0/{0}
+eth_format: ge0/{0}
 console: telnet
 shutdown: 1
 qemu_arch: x86_64
 qemu_version: 2.12.0
-qemu_nic: virtio-net-pci
+qemu_nic: e1000
 qemu_options: -machine type=pc,accel=kvm -cpu host -vga std -usbdevice tablet -boot order=dc -cpu host
 ...

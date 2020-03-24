@@ -30,7 +30,7 @@ name: Win
 cpulimit: 1
 icon: Desktop.png
 cpu: 1
-ram: 8192
+ram: 4096
 ethernet: 1
 console: vnc
 shutdown: 1
