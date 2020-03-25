@@ -26,7 +26,7 @@
 ---
 type: vpcs
 config_script: embedded
-description: embedded Virtual PC (VPCS)
+description: Virtual PC (VPCS)
 name: VPC
 cpulimit: 1
 icon: Desktop.png

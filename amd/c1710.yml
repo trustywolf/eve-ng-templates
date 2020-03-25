@@ -26,7 +26,7 @@
 ---
 type: dynamips
 config_script: embedded
-description: embedded Cisco IOS 1710 (Dynamips)
+description: Cisco IOS 1710 (Dynamips)
 name: "1710"
 cpulimit: 1
 icon: Router.png
