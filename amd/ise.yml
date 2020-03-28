@@ -34,6 +34,6 @@ ram: 8192
 ethernet: 1
 console: telnet
 qemu_arch: x86_64
-qemu_options: -machine type=pc-1.0,accel=kvm -serial mon:stdio -nographic -no-user-config
+qemu_options: -machine type=pc-1.0,accel=kvm -smbios type=1,product=KVM -serial mon:stdio -nographic -no-user-config
   -nodefaults -display none -vga std -rtc base=utc
 ...
