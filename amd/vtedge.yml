@@ -30,8 +30,8 @@ description: Viptela vEdge
 name: vEdge
 cpulimit: 1
 icon: vEdge.png
-cpu: 2
-ram: 2048
+cpu: 1
+ram: 1024
 ethernet: 5
 eth_name:
 - eth0
