@@ -25,7 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
-description: Cisco UCM IM name: Presence
+description: Cisco UCM IM & Presence
 name: CUP
 cpulimit: 1
 icon: IMpresence.png
