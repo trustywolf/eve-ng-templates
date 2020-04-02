@@ -31,7 +31,7 @@ cpulimit: 1
 icon: vWLC.png
 cpu: 4
 ram: 4096
-ethernet: 2
+ethernet: 3
 console: telnet
 qemu_arch: x86_64
 qemu_version: 2.12.0
