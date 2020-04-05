@@ -34,7 +34,7 @@ ram: 4096
 ethernet: 2
 console: vnc
 qemu_arch: x86_64
-qemu_version: 4.1.0
+qemu_version: 2.4.0
 qemu_nic: e1000
 qemu_options: -machine type=pc,accel=kvm -vga std -usbdevice tablet -boot order=cd
 ...
