@@ -29,13 +29,13 @@ description: Cisco Expressway
 name: CExprsW
 cpulimit: 1
 icon: Expressway-e.png
-cpu: 2
-ram: 4096
+cpu: 3
+ram: 6144
 ethernet: 3
 console: vnc
 shutdown: 1
 qemu_arch: x86_64
 qemu_version: 2.12.0
-qemu_nic: virtio-net-pci
-qemu_options: -machine type=pc,accel=kvm -vga std -usbdevice tablet -boot order=cd -cpu host
+qemu_nic: e1000
+qemu_options: -machine type=pc-1.0,accel=kvm -smbios type=1,manufacturer=VMware -nographic -nodefaults -display none -vga std -boot order=cd -rtc base=utc -cpu host
 ...
