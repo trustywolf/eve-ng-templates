@@ -30,8 +30,8 @@ description: Viptela vBond
 name: vBond
 cpulimit: 1
 icon: vBond.png
-cpu: 2
-ram: 2048
+cpu: 1
+ram: 1024
 ethernet: 2
 eth_name:
 - eth0
