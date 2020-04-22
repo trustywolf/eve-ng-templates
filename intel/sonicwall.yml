@@ -34,7 +34,7 @@ ram: 6144
 ethernet: 8
 eth_format: X{0}
 console: vnc
-qemu_nic: vmxnet3
+qemu_nic: virtio-net-pci
 qemu_arch: x86_64
 qemu_version: 2.12.0
 qemu_options: -machine type=pc,accel=kvm -nographic -rtc base=utc -cpu host
