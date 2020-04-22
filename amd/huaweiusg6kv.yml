@@ -35,5 +35,5 @@ ethernet: 6
 console: vnc
 qemu_arch: x86_64
 qemu_nic: virtio-net-pci
-qemu_options: -machine type=pc-1.0,accel=kvm -vga std -usbdevice tablet -boot order=dc
+qemu_options: -machine type=pc-1.0,accel=kvm -vga std -usbdevice tablet -boot order=cd
 ...
