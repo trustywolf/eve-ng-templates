@@ -29,7 +29,7 @@ description: Palo Alto Panorama
 name: Panorama
 cpulimit: 1
 icon: PaloPanorama.png
-cpu: 8
+cpu: 4
 ram: 16384
 ethernet: 1
 console: vnc
