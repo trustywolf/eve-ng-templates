@@ -26,7 +26,7 @@
 ---
 type: qemu
 config_script: config_timos.py
-description: Nokia 7750 VSR-I
+description: Nokia 7750 VSR
 name: 7750SR
 nokia_type: vsr
 cpulimit: 1
