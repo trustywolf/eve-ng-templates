@@ -32,6 +32,7 @@ icon: Firewall.png
 cpu: 1
 ram: 2048
 ethernet: 4
+eth_format: vtnet{0}
 console: telnet
 qemu_arch: x86_64
 qemu_nic: virtio-net-pci
