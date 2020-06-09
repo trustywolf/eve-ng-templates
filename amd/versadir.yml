@@ -30,7 +30,7 @@ name: vDirector
 cpulimit: 1
 icon: vdirector.png
 cpu: 2
-ram: 4096
+ram: 8192
 ethernet: 2
 console: vnc
 shutdown: 1
