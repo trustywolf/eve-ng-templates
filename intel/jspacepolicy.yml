@@ -27,7 +27,7 @@
 type: qemu
 name: Junos Space Policy Enforcer
 cpulimit: 1
-icon: jspacepolicy.png
+icon: JunosSpace.png
 cpu: 1
 ram: 8192
 qemu_version: 4.1.0
