@@ -27,7 +27,7 @@
 type: qemu
 name: Junos Space Log Collector (External)
 cpulimit: 1
-icon: JunosSpaceLogCollector.png
+icon: JunosSpace.png
 cpu: 4
 ram: 16384
 ethernet: 2
