@@ -28,7 +28,7 @@ type: qemu
 description: Cisco Unity Connection CUC
 name: CUC
 cpulimit: 1
-icon: Unity_express.png
+icon: Unity.png
 cpu: 2
 ram: 4096
 ethernet: 1
