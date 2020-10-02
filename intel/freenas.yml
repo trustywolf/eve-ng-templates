@@ -32,7 +32,7 @@ icon: nas.png
 cpu: 2
 ram: 8192
 ethernet: 2
-eth_format: eth{0}
+eth_format: vtnet{0}
 console: vnc
 qemu_arch: x86_64
 qemu_version: 2.12.0
