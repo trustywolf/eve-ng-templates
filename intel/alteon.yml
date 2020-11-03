@@ -32,7 +32,7 @@ icon: Load Balancer.png
 cpu: 2
 ram: 6144
 ethernet: 4
-console: telnet
+console: vnc
 qemu_arch: x86_64
 qemu_options: '-machine type=pc-1.0,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -display none -vga std -rtc base=utc '
