@@ -33,6 +33,7 @@ icon: CSRv1000.png
 cpu: 1
 ram: 4096
 ethernet: 4
+eth_format: Gi{1}
 console: telnet
 qemu_arch: x86_64
 qemu_version: 4.1.0
