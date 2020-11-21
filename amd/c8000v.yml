@@ -26,7 +26,7 @@
 ---
 type: qemu
 config_script: config_csr1000v.py
-prep: prep_isrv.sh
+prep: prep_c8000v.sh
 cstart: -cdrom config.iso
 name: C8K
 description: Cisco C8000V
