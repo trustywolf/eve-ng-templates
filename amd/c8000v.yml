@@ -38,7 +38,7 @@ ethernet: 4
 eth_format: Gi{1}
 console: telnet
 qemu_arch: x86_64
-qemu_version: 4.1.0
+qemu_version: 2.4.0
 qemu_nic: vmxnet3
 qemu_options: -machine type=pc,accel=kvm -cpu host -serial mon:stdio -nographic -no-user-config -nodefaults -rtc base=utc
 ...
