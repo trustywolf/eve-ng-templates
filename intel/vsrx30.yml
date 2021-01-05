@@ -26,6 +26,7 @@
 ---
 type: qemu
 name: vSRX3-0
+description: Juniper vSRX3.0
 config_script: config_vsrx30.py
 cpulimit: 1
 icon: JuniperSRX-30.png
