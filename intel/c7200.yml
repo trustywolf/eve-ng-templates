@@ -32,7 +32,7 @@ cpulimit: 1
 icon: Router.png
 idlepc: "0x62f21000"
 nvram: 128
-ram: 512
+ram: 256
 slot1: ""
 slot2: ""
 slot3: ""
