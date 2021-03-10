@@ -31,11 +31,11 @@ name: vQFX-RE
 cpulimit: 1
 icon: JunipervQFXre.png
 cpu: 2
-ram: 2048
+ram: 4096
 ethernet: 15
 console: telnet
-qemu_arch: x86_64
-qemu_version: 2.4.0
+qemu_arch: i386
+qemu_version: 2.0.2
 qemu_nic: virtio-net-pci
 qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -cpu host
 ...
