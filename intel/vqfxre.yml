@@ -31,7 +31,7 @@ name: vQFX-RE
 cpulimit: 1
 icon: JunipervQFXre.png
 cpu: 2
-ram: 4096
+ram: 3072
 ethernet: 15
 console: telnet
 qemu_arch: i386
