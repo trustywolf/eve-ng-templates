@@ -32,6 +32,9 @@ icon: versaflex.png
 cpu: 2
 ram: 4096
 ethernet: 6
+eth_name:
+- eth-0/0
+eth_format: vni-0/{0}
 console: telnet
 shutdown: 1
 qemu_arch: x86_64
