@@ -32,6 +32,7 @@ icon: vdirector.png
 cpu: 2
 ram: 8192
 ethernet: 2
+eth_format: eth{0}
 console: vnc
 shutdown: 1
 qemu_arch: x86_64
