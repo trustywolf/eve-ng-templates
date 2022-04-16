@@ -36,7 +36,7 @@ ram: 512
 ethernet: 4
 console: telnet
 qemu_arch: x86_64
-qemu_nic: virtio-net-pci
+qemu_nic: e1000
 qemu_options: -machine type=pc-1.0,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -rtc base=utc
 ...
