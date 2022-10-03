@@ -36,5 +36,5 @@ console: vnc
 shutdown: 1
 qemu_arch: x86_64
 qemu_nic: virtio-net-pci
-qemu_options: -machine type=pc,accel=kvm -vga std -usbdevice tablet -boot order=cd
+qemu_options: -machine type=pc,accel=kvm -vga std -usbdevice tablet -boot order=cd -cpu host
 ...
