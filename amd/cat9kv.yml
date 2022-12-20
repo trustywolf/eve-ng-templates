@@ -25,7 +25,7 @@
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ---
 type: qemu
-config_script: config_csr1000v.py
+config_script: config_cat9kv.py
 prep: prep_cat9kv.sh
 cstart: -cdrom config.iso
 name: C9K
@@ -40,7 +40,7 @@ eth_name:
 eth_format: G1/0/{1}
 console: telnet
 qemu_arch: x86_64
-qemu_version: 4.1.0
+qemu_version: 5.2.0
 qemu_nic: e1000
 qemu_options: -machine type=pc,accel=kvm -vga std -usbdevice tablet -boot order=cd
 ...
