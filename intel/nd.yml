@@ -30,7 +30,7 @@ description: Cisco Nexus Dashboard (ND)
 cpulimit: 1
 icon: nd.png
 cpu: 16
-ram: 32768
+ram: 49152
 ethernet: 2
 eth_format: eth{0}
 console: vnc
