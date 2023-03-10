@@ -41,6 +41,6 @@ eth_format: G1/0/{1}
 console: telnet
 qemu_arch: x86_64
 qemu_version: 5.2.0
-qemu_nic: e1000
+qemu_nic: virtio-net-pci
 qemu_options: -machine type=pc,accel=kvm -vga std -usbdevice tablet -boot order=cd
 ...
