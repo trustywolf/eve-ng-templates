@@ -36,7 +36,8 @@ ethernet: 10
 console: telnet
 qemu_arch: x86_64
 qemu_version: 2.12.0
-qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config
+qemu_nic: virtio-net-pci
+qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config -cpu host
   -nodefaults -rtc base=utc
-timos_line: slot=1 chassis=sr-12 slot=1 card=iom3-xp-b mda/1=m10-1gb-xp-sfp
+timos_line: slot=1 chassis=sr-12 slot=1 card=iom4-e mda/1=me10-10gb-sfp+
 ...
