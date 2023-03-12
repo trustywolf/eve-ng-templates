@@ -31,7 +31,7 @@ name: 7750SR
 nokia_type: vsr
 cpulimit: 1
 icon: SROS.png
-cpu: 2
+cpu: 4
 ram: 6144
 ethernet: 10
 eth_name:
@@ -44,6 +44,6 @@ qemu_version: 4.1.0
 qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -rtc base=utc -cpu host
 management_address: 10.1.1.1/24
-timos_line: slot=A chassis=sr-1s card=cpm-1s slot=1 chassis=sr-1s card=xcm-1s mda/1=s18-100gb-qsfp28
+timos_line: slot=A chassis=sr-1s card=cpm-1s slot=1 card=xcm-1s mda/1=s18-100gb-qsfp28
 timos_license: cf3:lic
 ...
