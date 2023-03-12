@@ -31,7 +31,7 @@ name: 7750SR
 nokia_type: vsr
 cpulimit: 1
 icon: SROS.png
-cpu: 2
+cpu: 4
 ram: 6144
 ethernet: 10
 eth_name:
