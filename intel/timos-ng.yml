@@ -40,7 +40,7 @@ eth_format: p1/1/{1-48}
 console: telnet
 qemu_arch: x86_64
 qemu_nic: virtio-net-pci
-qemu_version: 4.1.0
+qemu_version: 5.2.0
 qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -rtc base=utc -cpu host
 management_address: 10.1.1.1/24
