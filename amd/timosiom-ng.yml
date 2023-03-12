@@ -39,5 +39,5 @@ qemu_version: 2.4.0
 qemu_nic: virtio-net-pci
 qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -rtc base=utc cpu host
-timos_line: slot=1 chassis=sr-12 slot=1 card=iom4-e mda/1=me10-10gb-sfp+
+timos_line: chassis=sr-12 slot=1 card=iom4-e mda/1=me10-10gb-sfp+
 ...
