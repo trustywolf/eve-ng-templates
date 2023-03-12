@@ -36,7 +36,7 @@ ram: 4096
 ethernet: 2
 console: telnet
 qemu_arch: x86_64
-qemu_version: 2.12.0
+qemu_version: 5.2.0
 qemu_nic: virtio-net-pci
 qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -rtc base=utc -cpu host
