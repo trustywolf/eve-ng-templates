@@ -33,7 +33,7 @@ icon: clavister.png
 cpu: 1
 ram: 2048
 ethernet: 3
-eth_format: eth{0}
+eth_format: if{1}
 console: vnc
 shutdown: 1
 qemu_arch: x86_64
