@@ -36,6 +36,6 @@ ethernet: 8
 console: telnet
 qemu_arch: x86_64
 qemu_version: 2.4.0
-qemu_options: -machine type=pc-1.0,accel=kvm -serial mon:stdio -nographic -no-user-config
+qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -rtc base=utc -cpu host
 ...
