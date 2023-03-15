@@ -29,13 +29,13 @@ config_script: config_viosl2.py
 description: Cisco vIOS Switch
 name: Switch
 cpulimit: 1
-icon: Switch L3.png
+icon: Switch L32.png
 cpu: 1
 ram: 1024
 ethernet: 8
 console: telnet
 qemu_arch: x86_64
-qemu_version: 2.12.0
+qemu_version: 2.4.0
 qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -rtc base=utc -cpu host
 ...
