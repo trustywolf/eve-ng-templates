@@ -28,7 +28,7 @@ type: qemu
 description: Cisco SMA Zeus
 name: Zeus
 cpulimit: 1
-icon: Server.png
+icon: WSA.png
 cpu: 1
 ram: 4096
 ethernet: 3
