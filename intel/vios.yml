@@ -29,13 +29,13 @@ config_script: config_vios.py
 description: Cisco vIOS Router
 name: vIOS
 cpulimit: 1
-icon: Router.png
+icon: Router2.png
 cpu: 1
 ram: 1024
 ethernet: 4
 console: telnet
 qemu_arch: x86_64
-qemu_version: 2.12.0
+qemu_version: 2.4.0
 qemu_options: -machine type=pc,accel=kvm -serial mon:stdio -nographic -no-user-config
   -nodefaults -rtc base=utc -cpu host
 ...
