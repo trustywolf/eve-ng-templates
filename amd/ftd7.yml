@@ -39,7 +39,7 @@ eth_format: G0/{0}
 console: vnc
 shutdown: 1
 qemu_arch: x86_64
-qemu_version: 4.1.0
+qemu_version: 5.2.0
 qemu_nic: virtio-net-pci
 qemu_options: -machine type=pc,accel=kvm -serial none -nographic -no-user-config -nodefaults -display none -vga std -rtc base=utc -cpu host
 ...
