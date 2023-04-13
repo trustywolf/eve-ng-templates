@@ -31,7 +31,10 @@ cpulimit: 1
 icon: Aruba_ctrl.png
 cpu: 3
 ram: 4096
-ethernet: 4
+ethernet: 7
+eth_name:
+- mgmt
+eth_format: Ge0/0/{0-5}
 console: vnc
 qemu_arch: x86_64
 qemu_version: 4.1.0
