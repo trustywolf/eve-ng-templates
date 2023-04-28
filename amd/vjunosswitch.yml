@@ -33,7 +33,7 @@ cpu: 4
 ram: 8192
 eth_name:
 - fxp0
-eth_format: ge-0/{0-9}
+eth_format: ge-0/0/{0-9}
 ethernet: 11
 console: telnet
 qemu_arch: x86_64
