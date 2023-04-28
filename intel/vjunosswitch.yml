@@ -28,7 +28,7 @@ type: qemu
 description: Juniper vEX Switch
 name: vEX
 cpulimit: 4
-icon: JunipervQFXre.png
+icon: JunipervQFXpfe.png
 cpu: 4
 ram: 8192
 eth_name:
