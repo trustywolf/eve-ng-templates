@@ -26,7 +26,7 @@
 ---
 type: qemu
 name: AOS
-description: Apstra AOS Server
+description: Juniper Apstra AOS Server
 cpulimit: 1
 icon: apstra.png
 cpu: 8
@@ -36,7 +36,7 @@ eth_format: eth{0}
 console: telnet
 shutdown: 1
 qemu_arch: x86_64
-qemu_version: 2.12.0
+qemu_version: 5.2.0
 qemu_nic: virtio-net-pci
 qemu_options: -machine type=pc,accel=kvm -vga std -usbdevice tablet -boot order=cd
 ...
