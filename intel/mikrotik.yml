@@ -32,6 +32,7 @@ cpulimit: 1
 icon: Router.png
 cpu: 1
 ram: 256
+qemu_nic: e1000-82545em
 ethernet: 4
 console: telnet
 qemu_arch: x86_64
